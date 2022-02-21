@@ -359,4 +359,25 @@
             "listeners_data": "listeners"
         }
     }
+    
+    {
+	"id": "18",
+	"name": "It's Melody",
+	"shortcode": "melody",
+	"aliases": ["melody, itsmelody, melodypw, itsmelodypw, itsmelody"],
+	"stream": "https://radio.itsmelody.pw",
+	"website": "https://itsmelody.pw",
+	"logo": "https://itsmelody.pw/img/logo.png",
+	"hex": "#000000",
+	"api": {
+		"url": "https://api.itsmelody.pw",
+		"song": "song",
+		"song_title": "title",
+		"song_artist": "artist",
+		"dj": "dj",
+		"dj_name": "dj",
+		"listeners": "listeners",
+		"listeners_data": "total"
+	}
+}
 ]
