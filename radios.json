@@ -370,12 +370,12 @@
 	"logo": "https://itsmelody.pw/img/logo.png",
 	"hex": "#000000",
 	"api": {
-		"url": "https://api.itsmelody.pw",
+		"url": "https://api.itsmelody.pw/v2/stats",
 		"song": "song",
 		"song_title": "title",
 		"song_artist": "artist",
-		"dj": "dj",
-		"dj_name": "dj",
+		"dj": "presenter",
+		"dj_name": "presenter",
 		"listeners": "listeners",
 		"listeners_data": "total"
 	}
